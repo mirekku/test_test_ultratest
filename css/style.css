@@ -1,5 +1,13 @@
 /* styly */
 
+h2 {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+
+/* babicka */
+
 p {
     background-color: yellow;
     padding: 10px;
